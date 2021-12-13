@@ -21,7 +21,7 @@
 title: The best location to live
 email: your-email@example.com
 description: Find your ideal residence place with our new tool! Set your own parameters and discover the places that suits your tastes.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://github.com/the-best-location-to-live" # the subpath of your site, e.g. /blog
 url: "https://github.com/the-best-location-to-live" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  the-best-location-to-live
 
