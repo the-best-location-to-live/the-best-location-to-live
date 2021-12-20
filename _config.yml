@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The best location to live
+title: The best location for YOU to live
 email: your-email@example.com
-description: Find your ideal residence place with our new tool! Set your own parameters and discover the places that suits your tastes.
+description: Find your ideal residence place with our new tool! Choose your parameters and discover the places that suits your tastes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://the-best-location-for-you-to-live.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  the-best-location-to-live
